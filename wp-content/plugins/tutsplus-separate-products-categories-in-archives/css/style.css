@@ -1,0 +1,88 @@
+/*
+Stylesheet for categories and subcatgepries above products in WooCommerce archive pages
+*/
+.subcats-page{    background: #ffffff;
+    border-radius: 5px;
+    /* border: 1px solid #e6a02f; */
+    
+    margin: 0 0 20px;}
+	.product-cats {
+		margin: 0 0 0px 0;
+	}
+ul.product-cats li{list-style: none;}
+ul.product-cats li a{
+    width: 100%;
+    display: inline-block;
+    padding: 5px 10px;
+    border: 1px solid #f1d3a4;
+    background: #fff9ef;
+    border-radius: 5px;
+	margin: 0 0 9px 0;
+    color: #000;
+}
+ul.product-cats li a:hover {
+    border: 1px solid #b97b18;
+	background-color: #fffbf4;
+}
+ul.product-cats li a:hover {
+    color: #6d4300;
+}
+
+ul.product-cats li a:before {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    line-height: inherit;
+    vertical-align: baseline;
+    content: "\f1b0";
+    margin-right: .5407911001em;
+}
+.product-cats h4{margin: 0;    font-size: 18px;}
+ul.product-cats li img {
+	margin: 0 auto;	
+}
+.back-link {
+    border: 1px solid #ccc;
+    padding: 6px 15px;
+    margin: 0 auto 30px auto;
+    display: block;
+    width: 100%;
+	text-align: center;
+		border-radius: 5px;
+}
+
+.back-link:hover {border: 1px solid #333;
+		}
+		.back-link i{margin-right: 10px;}
+@media screen and (min-width:768px) {
+	.product-cats{margin: 0 0 30px 0;}
+	.back-link{
+		width: 200px;
+		}
+	ul.product-cats {
+		margin: 0;
+		clear: both;
+	}
+	ul.product-cats li{list-style: none;	
+		width: 48%;
+		display: inline-block;
+		margin: 5px 10px;
+		text-align: left;
+		vertical-align: top;}
+	ul.product-cats li a{
+		margin: 0 0 0 0;
+		padding: 5px 10px;
+		
+	}
+	ul.product-cats li:nth-of-type(3) {
+		/*margin-right: 0;*/
+	}
+	
+}
+

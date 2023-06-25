@@ -1,0 +1,2280 @@
+# Translation of Plugins - Newsletter - Stable (latest release) in Bulgarian
+# This file is distributed under the same license as the Plugins - Newsletter - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-07-23 13:58:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: bg\n"
+"Project-Id-Version: Plugins - Newsletter - Stable (latest release)\n"
+
+#: emails/blocks/header/options.php:11
+msgid "Only the logo"
+msgstr "Само логото"
+
+#: emails/blocks/header/options.php:11
+msgid "Default"
+msgstr "По подразбиране"
+
+#: tnp-header.php:169
+msgid "Unable to check"
+msgstr "Не може да се провери"
+
+#: profile/profile.php:257
+msgid "Select language"
+msgstr "Изберете език"
+
+#: emails/blocks/posts/options.php:51
+msgid "One column, big image"
+msgstr "Една колона, голямо изображение"
+
+#: profile/profile.php:32
+msgid "The subscriber was not found or is not confirmed."
+msgstr "Абонатът не е намерен или не е потвърден."
+
+#: emails/blocks/posts/options.php:25
+msgid "Include specified max posts"
+msgstr "Включете посочените максимални публикации"
+
+#: emails/blocks/posts/options.php:24
+msgid "Include only new posts"
+msgstr "Включете само новите публикации"
+
+#: emails/blocks/posts/options.php:22
+msgid "If there are new posts"
+msgstr "Ако има нови публикации"
+
+#: main/test.php:174
+msgid "Run"
+msgstr "Стартирай"
+
+#: subscription/lists.php:139
+msgid "Enforced by language"
+msgstr "Прилагане според езика"
+
+#: subscription/lists.php:137
+msgid "Profile form"
+msgstr "Форма за профил"
+
+#: subscription/lists.php:136
+msgid "Subscription form"
+msgstr "Форма за абонамент"
+
+#: subscription/lists.php:135
+msgid "If you check this box, all your new subscribers will be automatically added to this list"
+msgstr "Ако отметнете това поле, всички нови абонати ще бъдат автоматично добавени в този списък"
+
+#: subscription/lists.php:135
+msgid "Enforced"
+msgstr "Прилагане"
+
+#: subscription/lists.php:68
+msgid "Public"
+msgstr "Публично"
+
+#: plugin.php:1394
+msgid "Newsletter plugin page, do not delete"
+msgstr "Страница на разширението за бюлетин, не изтривайте"
+
+#: main/test.php:85
+msgid "Mailing test"
+msgstr "Тестване на изпращането"
+
+#: statistics/view.php:21
+msgid "This newsletter has the tracking disabled. No statistics will be available."
+msgstr "В този бюлетин проследяването е деактивирано. Няма налична статистика."
+
+#: emails/edit.php:440
+msgid "Do not filter by this field"
+msgstr "Не филтрирай по това поле"
+
+#: emails/edit.php:439
+msgid "is one of:"
+msgstr "е едно от:"
+
+#: emails/edit.php:436
+msgid "Profile fields"
+msgstr "Полета на профила"
+
+#: plugin.php:539
+msgid "Save the newsletter to update the counter!"
+msgstr "Запазете бюлетина, за да актуализирате брояча!"
+
+#: unsubscription/index.php:106
+msgid "Disable unsubscribe headers"
+msgstr "Деактивиране на хедърите за отписване"
+
+#: unsubscription/index.php:97
+msgid "Cancellation requests via email"
+msgstr "Искания за отписване по имейл"
+
+#: unsubscription/index.php:113
+msgid "Notify admin on unsubscription"
+msgstr "Уведомяване на администратора при отписване"
+
+#: includes/controls.php:889 includes/controls.php:894
+msgid "Run a test"
+msgstr "Започнете теста"
+
+#: includes/controls.php:886
+msgid "Proceed with a test?"
+msgstr "Да започне ли теста?"
+
+#: includes/controls.php:909
+msgid "Proceed with delete?"
+msgstr "Да започне ли изтриването?"
+
+#: includes/controls.php:867
+msgid "Proceed with copy?"
+msgstr "Да започне ли копирането?"
+
+#: emails/blocks/posts/options.php:32
+msgid "If there are not new posts"
+msgstr "Ако няма нови публикации"
+
+#: emails/blocks/cta/options.php:7 emails/blocks/heading/options.php:7
+#: emails/blocks/hero/options.php:16
+msgid "Schema"
+msgstr "Схема"
+
+#: emails/blocks/posts/options.php:75
+msgid "Posts offset"
+msgstr "Офсет публикации"
+
+#: emails/blocks/posts/options.php:60
+msgid "Dates and images"
+msgstr "Дати и изображения"
+
+#: emails/blocks/posts/options.php:55
+msgid "Excerpt words"
+msgstr "Думи на откъса"
+
+#: emails/tnp-composer/index-v2.php:69
+msgid "Global Styles"
+msgstr "Общи стилове"
+
+#: emails/themes/default/theme-options.php:15
+msgid "External background color"
+msgstr "Цвят на външния фон"
+
+#: statistics/index.php:66
+msgid "Overall basic statistics (last 20 newsletters)"
+msgstr "Основна обща статистика (последните 20 бюлетини)"
+
+#: statistics/index.php:55
+msgid "No newsletters have been sent till now"
+msgstr "Досега не са изпращани бюлетини"
+
+#: statistics/view.php:55
+msgid "Clicks"
+msgstr "Кликвания"
+
+#: statistics/view.php:46
+msgid "Opens"
+msgstr "Отваряния"
+
+#: statistics/view.php:38
+msgid "Reach"
+msgstr "Получатели"
+
+#: statistics/view.php:17
+msgid "Newsletter still sending"
+msgstr "Бюлетинът все още се изпраща"
+
+#: statistics/view.php:15
+msgid "Draft newsletter, no data available"
+msgstr "Проектобюлетин, няма данни"
+
+#: subscription/antibot.php:55
+msgid "Disable antibot"
+msgstr "Деактивиране на антибота"
+
+#: subscription/antibot.php:130 subscription/antibot.php:139
+msgid "One per line"
+msgstr "По един на ред"
+
+#: main/main.php:343
+msgid "Execute shortcodes on newsletters"
+msgstr "Изпълнение на кратки кодове в бюлетините"
+
+#: subscription/defaults-profile.php:34
+msgid "A mandatory field is not filled in"
+msgstr "Не е попълнено задължително поле"
+
+#: includes/controls.php:847
+msgid "Configure"
+msgstr "Настройки"
+
+#: main/main.php:275
+msgid "Allowed roles"
+msgstr "Позволени роли"
+
+#: plugin.php:477
+msgid "Addons"
+msgstr "Добавки"
+
+#: plugin.php:468
+msgid "Settings and More"
+msgstr "Настройки и друго"
+
+#: plugin.php:464
+msgid "Company info"
+msgstr "Информация за компанията"
+
+#: includes/fields.php:392
+msgid "Terms"
+msgstr "Условия"
+
+#: users/index.php:122
+msgid "Add a subscriber"
+msgstr "Добавяне на абонат"
+
+#: emails/blocks/posts/options.php:83
+msgid "Filters"
+msgstr "Филтри"
+
+#: emails/blocks/posts/options.php:57
+msgid "Excerpt font"
+msgstr "Шрифт на текста"
+
+#: emails/blocks/posts/options.php:50
+msgid "Two columns"
+msgstr "Две колони"
+
+#: emails/blocks/posts/options.php:49
+msgid "One column"
+msgstr "Една колона"
+
+#: emails/edit.php:537
+msgid "Convert to HTML newsletter"
+msgstr "Преобразуване в HTML бюлетин"
+
+#: emails/edit.php:375
+msgid "Preview"
+msgstr "Преглед"
+
+#: emails/edit.php:374
+msgid "Advanced"
+msgstr "Допълнителни"
+
+#: emails/edit.php:373
+msgid "Sending Options"
+msgstr "Опции за изпращане"
+
+#: emails/edit.php:361
+msgid "Targeted subscribers"
+msgstr "Таргетирани абонати"
+
+#: emails/edit.php:355
+msgid "Scheduled on"
+msgstr "По график на"
+
+#: emails/edit.php:344
+msgid "Status:"
+msgstr "Състояние:"
+
+#: emails/edit.php:324
+msgid "Schedule delivery?"
+msgstr "Изпращане по график?"
+
+#: emails/edit.php:320
+msgid "Send now"
+msgstr "Изпратете сега"
+
+#: emails/edit.php:255
+msgid "Scheduled."
+msgstr "Планирано."
+
+#: emails/edit.php:253
+msgid "Now sending."
+msgstr "Изпраща се."
+
+#: emails/emails.php:942
+msgid "Newsletter should be saved before send a test"
+msgstr "Бюлетинът трябва да бъде запаметен преди да се изпрати тест"
+
+#: emails/emails.php:140
+msgid "Choose a preset:"
+msgstr "Изберете предварителна настройка:"
+
+#: emails/tnp-composer/index-v2.php:125 emails/tnp-composer/index.php:114
+msgid "Apply"
+msgstr "Прилагане"
+
+#: emails/tnp-composer/index-v2.php:114 emails/tnp-composer/index.php:103
+msgid "Send a test"
+msgstr "Изпратете тест"
+
+#: emails/emails.php:965 emails/emails.php:971
+#: emails/tnp-composer/index-v2.php:108 emails/tnp-composer/index.php:97
+msgid "Test subscribers:"
+msgstr "Получатели на тест:"
+
+#: emails/tnp-composer/index-v2.php:70 emails/tnp-composer/index.php:69
+msgid "Mobile Preview"
+msgstr "Предварителен преглед за телефони"
+
+#: emails/tnp-composer/index-v2.php:68 emails/tnp-composer/index.php:68
+msgid "Blocks"
+msgstr "Блокове"
+
+#: emails/editorhtml.php:98 emails/composer.php:91 emails/editortinymce.php:115
+msgid "Back to last save"
+msgstr "Обратно към последното записване"
+
+#: users/index.php:165
+msgid "Delete selected"
+msgstr "Изтриване на избраните"
+
+#: users/massive.php:275
+msgid "subscribers without a language"
+msgstr "абонати без локализация"
+
+#: users/massive.php:274
+msgid "Set to"
+msgstr "Настройте на"
+
+#: users/statistics.php:112
+msgid "Without language"
+msgstr "Без локализация"
+
+#: tnp-header.php:105
+msgid "Start your new campaign"
+msgstr "Стартирайте новата си кампания"
+
+#: tnp-header.php:104
+msgid "Create newsletter"
+msgstr "Създаване на бюлетин"
+
+#: emails/tnp-composer/edit.php:22
+msgid "WIDTH"
+msgstr "ШИРИНА"
+
+#: tnp-header.php:165 tnp-header.php:175
+msgid "Get Professional Addons"
+msgstr "Вземете професионални добавки"
+
+#: emails/emails.php:969 emails/emails.php:977
+msgid "Read more about delivery issues"
+msgstr "Прочетете повече относно доставката"
+
+#: includes/controls.php:1650
+msgid "Install a multilanguage plugin."
+msgstr "Инсталирайте многоезично разширение."
+
+#: emails/blocks/hero/options.php:24
+msgid "Image"
+msgstr "Изображение"
+
+#: emails/blocks/cta/options.php:19
+msgid "Width"
+msgstr "Ширина"
+
+#: emails/blocks/posts/options.php:53
+msgid "Title font"
+msgstr "Шрифт на заглавието"
+
+#: emails/blocks/posts/options.php:62
+msgid "Show image"
+msgstr "Показване на изображение"
+
+#: includes/controls.php:1681
+msgid "Your multilanguage plugin is not supported or there are no languages defined"
+msgstr "Вашето многоезично разширение не се поддържа или няма дефинирани езици"
+
+#: includes/controls.php:1674
+msgid "Install WPML or Polylang for multilanguage support"
+msgstr "Инсталирайте WPML или Polylang за многоезична поддръжка"
+
+#: users/index.php:36
+msgid "Welcome email sent."
+msgstr "Изпратен имейл за добре дошли."
+
+#: users/index.php:30
+msgid "Activation email sent."
+msgstr "Изпратен имейл за потвърждение."
+
+#: unsubscription/index.php:87
+msgid "On error"
+msgstr "При грешка"
+
+#: emails/blocks/posts/options.php:65
+msgid "Show date"
+msgstr "Показване на дата"
+
+#: users/edit.php:154 profile/profile.php:254 emails/edit.php:406
+#: includes/fields.php:422
+msgid "Language"
+msgstr "Език"
+
+#: emails/blocks/hero/options.php:31
+msgid "Button"
+msgstr "Бутон"
+
+#: includes/fields.php:498
+msgid "Padding"
+msgstr "Разстояние"
+
+#: main/main.php:304
+msgid "Disable the scheduler notice"
+msgstr "Деактивирайте известието от планировчика"
+
+#: main/main.php:314
+msgid "Do not store"
+msgstr "Не запазвай"
+
+#: main/main.php:314
+msgid "Anonymize"
+msgstr "Анонимизиране"
+
+#: main/main.php:314
+msgid "Store"
+msgstr "Запази"
+
+#: main/main.php:312
+msgid "IP addresses"
+msgstr "IP адреси"
+
+#: subscription/lists.php:181
+msgid "Unlink everyone"
+msgstr "Прекъснете връзката с всички"
+
+#: profile/index.php:137
+msgid "Log of sent newsletters"
+msgstr "Дневник на изпратените бюлетини"
+
+#: profile/index.php:52
+msgid "Subscriber data export"
+msgstr "Експорт на данните за абонатите"
+
+#: includes/module.php:1159 includes/module.php:1173
+msgid "No subscriber found."
+msgstr "Не е намерен абонат."
+
+#: emails/edit.php:268
+msgid "The message is missing the subscriber profile or cancellation link."
+msgstr "Съобщението не съдържа потребителски профил или връзка за анулиране."
+
+#: profile/profile.php:125
+msgid "Subscriber not found."
+msgstr "Абонатът не е намерен."
+
+#: profile/index.php:108
+msgid "Labels"
+msgstr "Етикети"
+
+#: profile/index.php:82
+msgid "Profile saved"
+msgstr "Профилът е запазен."
+
+#: includes/module.php:1944
+msgid "Math question"
+msgstr "Математически въпрос"
+
+#: subscription/profile.php:163
+msgid "Use WordPress privacy URL"
+msgstr "Използвайте URL-адреса за поверителност на WordPress"
+
+#: users/edit.php:112
+msgid "Logs"
+msgstr "Логове"
+
+#: users/edit.php:109
+msgid "Extra fields"
+msgstr "Допълнителни полета"
+
+#: tnp-header.php:60
+msgid "The subscriber personal profile editing panel"
+msgstr "Панел за редактиране на личния профил на абоната"
+
+#: unsubscription/index.php:124
+msgid "Reactivated message"
+msgstr "Съобщение за реактивация"
+
+#: unsubscription/index.php:60
+msgid "Cancellation message"
+msgstr "Съобщение за отписване"
+
+#: unsubscription/index.php:54
+msgid "Reactivation"
+msgstr "Реактивация"
+
+#: unsubscription/index.php:38 unsubscription/index.php:53
+msgid "Cancellation"
+msgstr "Отписване"
+
+#: subscription/profile.php:137
+msgid "\"Subscribe\" label"
+msgstr "Етикет „Абонирай се“"
+
+#: subscription/profile.php:32
+msgid "Optional"
+msgstr "Още"
+
+#: subscription/profile.php:31
+msgid "Show on subscription form"
+msgstr "Показване на форма за абонамент"
+
+#: subscription/profile.php:31
+msgid "Show on profile page"
+msgstr "Показване на страницата на профила"
+
+#: subscription/profile.php:31 subscription/lists.php:68
+msgid "Private"
+msgstr "Лично"
+
+#: subscription/options.php:154
+msgid "Repeated subscriptions"
+msgstr "Многократни абонаменти"
+
+#: subscription/options.php:148
+msgid "Override Opt In"
+msgstr "Замяна на опцията"
+
+#: subscription/options.php:119
+msgid "Subscription Configuration"
+msgstr "Конфигурация на абонамента"
+
+#: subscription/lists.php:145
+msgid "Notes"
+msgstr "Бележки"
+
+#: unsubscription/defaults.php:25
+msgid "Your subscription has been reactivated."
+msgstr "Абонаментът ви е активиран отново."
+
+#: unsubscription/defaults.php:23
+msgid "This message confirms that you have unsubscribed from our newsletter. Thank you."
+msgstr "Потвърждаваме Ви, че сте се отписали от нашия бюлетин. Благодарим Ви!"
+
+#: unsubscription/defaults.php:21
+msgid "Goodbye"
+msgstr "Довиждане"
+
+#: unsubscription/defaults.php:19
+msgid "Your subscription has been deleted. If that was an error you can <a href=\"{reactivate_url}\">subscribe again here</a>."
+msgstr "Абонаментът Ви е изтрит. Ако това е грешка, можете <a href=\"{reactivate_url}\"> да се абонирате отново тук </a>."
+
+#: unsubscription/defaults.php:16
+msgid "Subscriber not found, it probably has already been removed. No further actions are required."
+msgstr "Абонатът не е намерен, вероятно вече е премахнат. Не са необходими допълнителни действия."
+
+#: unsubscription/defaults.php:15
+msgid "Please confirm you want to unsubscribe <a href=\"{unsubscription_confirm_url}\">clicking here</a>."
+msgstr "Моля, потвърдете, че искате да отмените абонамента, <a href=\"{unsubscription_confirm_url}\"> като натиснете тук </a>."
+
+#: subscription/defaults.php:55
+msgid "Change your profile"
+msgstr "Промяна на профила"
+
+#: subscription/defaults.php:53
+msgid "This message confirms your subscription to our newsletter. Thank you!"
+msgstr "Потвърждение на абонамент за нашия бюлетин. Благодарим Ви!"
+
+#: subscription/defaults.php:48
+msgid "Your subscription has been confirmed"
+msgstr "Вашият абонамент е потвърден"
+
+#: subscription/defaults.php:44
+msgid "Please confirm your subscription <a href=\"{subscription_confirm_url}\">clicking here</a>"
+msgstr "Моля, потвърдете абонамента си <a href=\"{subscription_confirm_url}\"> като натиснете тук </a>"
+
+#: subscription/defaults.php:39
+msgid "Please confirm your subscription"
+msgstr "Моля, потвърдете абонамента си"
+
+#: subscription/defaults.php:36
+msgid "A confirmation email is on the way. Follow the instructions and check the spam folder. Thank you."
+msgstr "Изпратен е имейл за потвърждение. Следвайте инструкциите и проверете папката със спам. Благодарим Ви!"
+
+#: subscription/defaults.php:28
+msgid "You cannot subscribe with the email address you entered, please contact the site administrator."
+msgstr "Не можете да се абонирате с въведения имейл адрес. Моля, свържете се с администратора на сайта."
+
+#: subscription/defaults-profile.php:28
+msgid "Dear"
+msgstr "Уважаеми/а"
+
+#: subscription/defaults-profile.php:27
+msgid "Mr."
+msgstr "Г-н"
+
+#: subscription/defaults-profile.php:26
+msgid "Ms."
+msgstr "Г-жо"
+
+#: subscription/defaults-profile.php:18
+msgid "By continuing, you accept the privacy policy"
+msgstr "Продължавайки, Вие приемате политиката за поверителност"
+
+#: subscription/defaults-profile.php:16
+msgid "I'm"
+msgstr "Аз съм"
+
+#: subscription/defaults-profile.php:13
+msgid "Last name is required"
+msgstr "Фамилията е задължителна"
+
+#: subscription/defaults-profile.php:9
+msgid "Name is required"
+msgstr "Името е задължително"
+
+#: subscription/defaults-profile.php:8
+msgid "First name or full name"
+msgstr "Име или пълно име"
+
+#: subscription/defaults-profile.php:7
+msgid "Email address is not correct"
+msgstr "Имейл адресът не е правилен"
+
+#: profile/index.php:118
+msgid "Privacy link text"
+msgstr "Текст на връзката за поверителност"
+
+#: profile/index.php:111
+msgid "\"Save\" label"
+msgstr "Етикет „Запазване“"
+
+#: profile/index.php:100
+msgid "General error"
+msgstr "Обща грешка"
+
+#: profile/index.php:90
+msgid "Email changed alert"
+msgstr "Известие за променен имейл"
+
+#: profile/index.php:79
+msgid "Messages"
+msgstr "Съобщения"
+
+#: profile/index.php:40
+msgid "The subscriber profile page"
+msgstr "Профилна страница на абоната"
+
+#: profile/defaults.php:15
+msgid "Profile saved."
+msgstr "Профилът е съхранен."
+
+#: profile/defaults.php:14
+msgid "Read our privacy note"
+msgstr "Прочетете бележката ни за поверителност"
+
+#: profile/defaults.php:12
+msgid "Your email is not valid or already in use."
+msgstr "Вашият имейл е невалиден или вече се използва."
+
+#: profile/defaults.php:11
+msgid "Your email has been changed, an activation email has been sent with instructions."
+msgstr "Вашият имейл беше променен, изпратен е имейл за активация с инструкции."
+
+#: main/main.php:319
+msgid "Newsletters tracking default"
+msgstr "Проследяване на бюлетините по подразбиране."
+
+#: main/main.php:260
+msgid "Disable standard styles"
+msgstr "Деактивирайте стандартните стилове"
+
+#: includes/controls.php:411
+msgid "Options reset."
+msgstr "Нулиране на опциите."
+
+#: includes/controls.php:404
+msgid "Deleted."
+msgstr "Изтрито."
+
+#: users/statistics.php:257 users/edit.php:143
+msgid "Male"
+msgstr "Мъж"
+
+#: users/massive.php:312
+msgid "subscribers without a list"
+msgstr "абонати без списък"
+
+#: users/massive.php:311
+msgid "Add to list"
+msgstr "Добавяне към списък"
+
+#: users/massive.php:250 users/massive.php:251 users/massive.php:252
+#: users/massive.php:253 users/massive.php:254 users/massive.php:255
+#: users/massive.php:256 users/massive.php:257 users/massive.php:258
+msgid "years"
+msgstr "години"
+
+#: users/massive.php:249
+msgid "year"
+msgstr "година"
+
+#: users/massive.php:248
+msgid "months"
+msgstr "месеца"
+
+#: users/massive.php:244
+msgid "Inactive since"
+msgstr "Неактивен от"
+
+#: users/massive.php:56
+msgid "deleted"
+msgstr "изтрито"
+
+#: users/edit.php:230
+msgid "Last activity"
+msgstr "Последна активност"
+
+#: tnp-header.php:80
+msgid "Spam subscriptions control"
+msgstr "Контрол на спам абонаменти"
+
+#: subscription/antibot.php:47
+msgid "Blacklists"
+msgstr "Черни списъци"
+
+#: subscription/antibot.php:29 subscription/antibot.php:46 tnp-header.php:79
+msgid "Security"
+msgstr "Сигурност"
+
+#: subscription/antibot.php:135
+msgid "Address black list"
+msgstr "Черен списък с адреси"
+
+#: subscription/antibot.php:126
+msgid "IP black list"
+msgstr "Черен списък с IP"
+
+#: subscription/antibot.php:100
+msgid "Captcha"
+msgstr "Captcha"
+
+#: includes/fields.php:491
+msgid "Block Background"
+msgstr "Фон на блока"
+
+#: emails/blocks/posts/options.php:49 emails/blocks/hero/options.php:13
+#: emails/blocks/header/options.php:11
+msgid "Layout"
+msgstr "Оформление"
+
+#: emails/blocks/posts/block.php:22
+msgid "Read more..."
+msgstr "Повече информация"
+
+#: emails/subjects.php:59
+msgid "Get/Become <em>[something]</em>. 10 Ideas That Work"
+msgstr "Станете <em> [нещо] </em>. 10 работещи идеи"
+
+#: emails/subjects.php:58
+msgid "The 10 Rules for <em>[something]</em>"
+msgstr "10-те правила за <em> [нещо] </em>"
+
+#: emails/subjects.php:57
+msgid "The Top 10 <em>[something]</em>"
+msgstr "Топ 10 <em> [нещо] </em>"
+
+#: emails/subjects.php:56
+msgid "10 Ways to <em>[something]</em>"
+msgstr "10 начина да <em> [нещо] </em>"
+
+#: emails/subjects.php:53
+msgid "Don't do These 10 Things When <em>[something]</em>"
+msgstr "Не правете тези 10 неща, когато <em> [нещо] </em>"
+
+#: emails/subjects.php:52
+msgid "10 <em>[something]</em> Mistakes That Make You Look Dumb"
+msgstr "10 <em> [нещо] </em> грешки, от които изглеждаш тъп"
+
+#: emails/subjects.php:51
+msgid "Do You Make These 10 <em>[something]</em> Mistakes?"
+msgstr "Правите ли тези 10 <em> [нещо] </em> грешки?"
+
+#: emails/subjects.php:48
+msgid "Secrets of [famous people]"
+msgstr "Тайните на [известни хора]"
+
+#: emails/subjects.php:47
+msgid "How to End [problem]"
+msgstr "Как да оправим [проблем]"
+
+#: emails/subjects.php:46
+msgid "Get Rid of <em>[problem]</em> Once and Forever"
+msgstr "Отървете се от <em> [проблем] </em> веднъж завинаги"
+
+#: emails/subjects.php:45
+msgid "10 Ways to Simplify Your <em>[something]</em>"
+msgstr "10 начина да опростите <em> [нещо] </em>"
+
+#: emails/subjects.php:42
+msgid "10 Lies <em>[kind of people]</em> Likes to Tell"
+msgstr "10 лъжи, които <em> [вид хора] </em> обича да казва"
+
+#: emails/subjects.php:41
+msgid "10 Warning Signs That <em>[something]</em>"
+msgstr "10 предупредителни знака за <em> [нещо] </em>"
+
+#: emails/subjects.php:40
+msgid "How safe is your <em>[something]</em> from <em>[danger]</em>?"
+msgstr "Колко сигурно е <em> [нещо] </em> от <em> [опасност] </em>?"
+
+#: emails/edit.php:337
+msgid "Insert emoji"
+msgstr "Вмъкване на емотикон"
+
+#: emails/editorhtml.php:89 emails/tnp-composer/index-v2.php:54
+#: emails/tnp-composer/index.php:54 emails/editortinymce.php:107
+#: emails/edit.php:335
+msgid "Get ideas"
+msgstr "Вземете идеи"
+
+#: main/welcome.php:233 emails/editorhtml.php:101 emails/composer.php:93
+#: emails/editortinymce.php:118
+msgid "Next"
+msgstr "Напред"
+
+#: main/welcome.php:232
+msgid "Previous"
+msgstr "Назад"
+
+#: main/welcome.php:226
+msgid "Go to your dashboard"
+msgstr "Към таблото за управление"
+
+#: main/welcome.php:221
+msgid "If you are unsure on how to use some features of Newsletter, reach for our official documentation."
+msgstr "Ако не сте сигурни как да използвате някои функции на бюлетина, потърсете нашата официална документация."
+
+#: main/welcome.php:214
+msgid "You can also follow us through our social accounts"
+msgstr "Можете да ни следвате и в социалните мрежи"
+
+#: main/welcome.php:209
+msgid "Your email"
+msgstr "Вашият имейл"
+
+#: main/welcome.php:208
+msgid "Be always updated with the latest releases and tips from our headquarters"
+msgstr "Бъдете винаги актуализирани с най-новите версии и съвети от нашата централа."
+
+#: main/welcome.php:204
+msgid "You're now ready to begin using Newsletter!"
+msgstr "Вече сте готови да започнете да използвате Newsletter!"
+
+#: main/welcome.php:193
+msgid "Take me to my widget settings (opens in a new window)"
+msgstr "Към настройките ми на джаджите (отваря се в нов прозорец)"
+
+#: main/welcome.php:191
+msgid "If you use sidebars in your blog, it may be a good idea to add a subscription form there. Remember to come back here when you're done"
+msgstr "Ако използвате странични ленти в блога си, е добра идея да добавите в тях форма за абонамент. Не забравяйте да се върнете тук, когато приключите."
+
+#: main/welcome.php:190
+msgid "Add Newsletter widget to sidebar"
+msgstr "Добавете джаджа за Newsletter в страничната лента."
+
+#: main/welcome.php:180
+msgid "Email address"
+msgstr "Имейл адрес"
+
+#: main/welcome.php:179
+msgid "Check if your website can send emails correctly."
+msgstr "Проверете дали Вашият уебсайт може да изпраща имейли правилно."
+
+#: main/welcome.php:178
+msgid "Time for some tests!"
+msgstr "Време е за няколко теста!"
+
+#: main/welcome.php:173
+msgid "We've just created the page where your visitors will subscribe and where they will edit their preferences."
+msgstr "Току-що създадохме страницата, където вашите посетители ще се абонират и където ще редактират предпочитанията си."
+
+#: main/welcome.php:172
+msgid "Subscription and Edit<br>page creation"
+msgstr "Абонамент и редактиране<br>създаване на страница"
+
+#: main/welcome.php:163
+msgid "Subscribe button label"
+msgstr "Етикет на бутона за абониране"
+
+#: main/welcome.php:156
+msgid "Add a privacy checkbox"
+msgstr "Добавяне на отметка за поверителност"
+
+#: main/welcome.php:149
+msgid "Ask for their name"
+msgstr "Попитайте за името им"
+
+#: main/welcome.php:146
+msgid "Choose what to ask to your subscribers in your forms."
+msgstr "Изберете какво да попитате абонатите във формите."
+
+#: main/welcome.php:145
+msgid "Subscription Forms"
+msgstr "Форми за абонамент"
+
+#: main/welcome.php:139
+msgid "Sender email"
+msgstr "Имейл на изпращача"
+
+#: main/welcome.php:137
+msgid "Choose which name and email address you'd like to appear as the sender of your newsletters."
+msgstr "Изберете име и имейл адрес, които да се показват като изпращач на Вашите бюлетини."
+
+#: main/welcome.php:136
+msgid "Sender"
+msgstr "Изпращач"
+
+#: main/welcome.php:130
+msgid "In this short tutorial we will guide you through some of the basic settings to get the most out of our plugin. "
+msgstr "В това кратко упътване ще ви преведем през някои от основните настройки, за да извлечете максимума от нашето разширение."
+
+#: main/welcome.php:129
+msgid "Welcome to The Newsletter Plugin and thank your for choosing the best mail management system for Wordpress!"
+msgstr "Добре дошли в разширението Newsletter! Благодарим Ви, че избрахте най-добрата система за управление на имейли на WordPress!"
+
+#: main/welcome.php:50
+msgid "There was an error. Complete the setup and then use the status panel to check it out."
+msgstr "Имаше грешка. Завършете настройката и после използвайте панела за състояние, за да я проверите."
+
+#: main/welcome.php:44
+msgid "Check your mailbox for a test message. Check the spam folder as well."
+msgstr "Проверете пощата си за тестово съобщение. Проверете и папката със спам."
+
+#: main/welcome.php:32
+msgid "Please check the email address, it seems wrong."
+msgstr "Моля, проверете имейл адреса, изглежда погрешен."
+
+#: main/main.php:221
+msgid "A license key is set"
+msgstr "Лицензният ключ е зададен"
+
+#: users/massive.php:48
+msgid "removed from list"
+msgstr "премахнат от списъка"
+
+#: users/massive.php:43
+msgid "added to list"
+msgstr "добавен към списъка"
+
+#: users/statistics.php:264 users/edit.php:143
+msgid "Not specified"
+msgstr "Неопределено"
+
+#: users/statistics.php:250 users/edit.php:143
+msgid "Female"
+msgstr "Жена"
+
+#: users/statistics.php:173
+msgid "Referrer"
+msgstr "Източник"
+
+#: users/statistics.php:60
+msgid "Any"
+msgstr "Всеки"
+
+#: users/statistics-time.php:31
+msgid "Subscriptions by day (max 90 days)"
+msgstr "Абонаменти по дни (максимум 90 дни)"
+
+#: users/statistics-time.php:15
+msgid "Year and month"
+msgstr "Година и месец"
+
+#: users/statistics-time.php:7
+msgid "Subscriptions by month (max 12 months)"
+msgstr "Абонаменти по месеци (максимум 12 месеца)"
+
+#: users/new.php:20
+msgid "This subscriber already exists."
+msgstr "Това потребителско име вече съществува."
+
+#: users/new.php:11
+msgid "Wrong email address."
+msgstr "Грешен имейл адрес."
+
+#: users/massive.php:300
+msgid "to"
+msgstr "до"
+
+#: users/massive.php:299
+msgid "all subscribers in"
+msgstr "всички абонати в"
+
+#: users/massive.php:181
+msgid "Bounces"
+msgstr "Върнати съобщения"
+
+#: users/index.php:232
+msgid "Resend activation"
+msgstr "Повторен имейл за активация"
+
+#: users/index.php:152
+msgid "The list below is filtered."
+msgstr "Списъкът по-долу е филтриран."
+
+#: users/import.php:184
+msgid "Import mode"
+msgstr "Режим на импортиране"
+
+#: users/edit.php:254
+msgid "Profile URL"
+msgstr "URL адрес на профила"
+
+#: users/edit.php:248
+msgid "Secret token"
+msgstr "Таен знак"
+
+#: users/edit.php:242
+msgid "IP address"
+msgstr "IP адрес"
+
+#: users/edit.php:195
+msgid "Value"
+msgstr "Стойност"
+
+#: subscription/lists.php:132 users/index.php:175 users/edit.php:194
+msgid "Name"
+msgstr "Име"
+
+#: users/edit.php:160
+msgid "Test subscriber"
+msgstr "Тест абонат"
+
+#: subscription/defaults-profile.php:12 subscription/profile.php:94
+#: users/edit.php:135
+msgid "Last name"
+msgstr "Фамилия"
+
+#: subscription/profile.php:77 users/edit.php:129
+msgid "First name"
+msgstr "Име"
+
+#: users/new.php:48 users/edit.php:123
+msgid "Email"
+msgstr "Имейл"
+
+#: users/edit.php:45
+msgid "Error. Check the log files."
+msgstr "Грешка. Проверете лог файловете."
+
+#: users/edit.php:25
+msgid "The email address is already in use"
+msgstr "Този имейл адрес вече е регистриран."
+
+#: users/edit.php:16
+msgid "Wrong email address"
+msgstr "Грешен имейл адрес."
+
+#: profile/index.php:71
+msgid "Alternative profile page URL"
+msgstr "Алтернативен URL на страницата на профила"
+
+#: subscription/options.php:265
+msgid "Welcome email"
+msgstr "Имейл за добре дошли"
+
+#: subscription/options.php:255
+msgid "Conversion tracking code"
+msgstr "Код за проследяване на конверсиите"
+
+#: subscription/options.php:248
+msgid "Alternative welcome page URL"
+msgstr "Алтернативен URL на страницата за добре дошли"
+
+#: subscription/options.php:241
+msgid "Welcome message"
+msgstr "Съобщение за добре дошли"
+
+#: subscription/options.php:224
+msgid "Activation email"
+msgstr "Имейл за активация"
+
+#: subscription/options.php:215
+msgid "Alternative activation page"
+msgstr "Алтернативна страница за активация"
+
+#: subscription/options.php:208
+msgid "Activation message"
+msgstr "Съобщение за активация"
+
+#: subscription/options.php:203
+msgid "Only for double opt-in mode."
+msgstr "Само за режим на двойно потвърждение."
+
+#: subscription/options.php:192
+msgid "Error page"
+msgstr "Страница за грешка"
+
+#: subscription/antibot.php:78
+msgid "Antiflood"
+msgstr "Антифлуд"
+
+#: subscription/antibot.php:60
+msgid "Disable for ajax form submission"
+msgstr "Изключване за форми ajax"
+
+#: subscription/options.php:180
+msgid "Subscription page"
+msgstr "Страница за абонамент"
+
+#: subscription/options.php:162
+msgid "Notifications"
+msgstr "Известия"
+
+#: main/main.php:211
+msgid "Create the page"
+msgstr "Създаване на страницата"
+
+#: main/main.php:208
+msgid "Unstyled page"
+msgstr "Страница без стил"
+
+#: main/main.php:204
+msgid "Dedicated page"
+msgstr "Специална страница"
+
+#: subscription/options.php:144
+msgid "Single Opt In"
+msgstr "Единично потвърждение"
+
+#: subscription/options.php:144
+msgid "Double Opt In"
+msgstr "Двойно потвърждение"
+
+#: subscription/options.php:142
+msgid "Opt In"
+msgstr "Потвърждение"
+
+#: subscription/defaults.php:50 subscription/options.php:133 plugin.php:467
+msgid "Welcome"
+msgstr "Добре дошли"
+
+#: subscription/options.php:134
+msgid "Activation"
+msgstr "Активация"
+
+#: main/main.php:334
+msgid "Email encoding"
+msgstr "Кодиране на имейл"
+
+#: main/main.php:327
+msgid "Debug mode"
+msgstr "Режим на отстраняване на грешки"
+
+#: main/main.php:295
+msgid "Log level"
+msgstr "Ниво на лог"
+
+#: main/main.php:225
+msgid "Find it in <a href=\"%s\" target=\"_blank\">your account</a> page"
+msgstr "Намерете го на страницата на <a href=\"%s\" target=\"_blank\"> акаунта Ви </a>"
+
+#: main/main.php:218
+msgid "License key"
+msgstr "Лицензионен код"
+
+#: main/main.php:109
+msgid "Your Return Path domain is different from your Sender domain. Providers may require them to match."
+msgstr "Вашият домейн за връщане е различен от домейна за изпращане. Доставчиците могат да изискват те да съвпадат."
+
+#: main/info.php:92
+msgid "Copyright or legal text"
+msgstr "Авторско право или юридически текст"
+
+#: main/info.php:86
+msgid "Address"
+msgstr "Адрес"
+
+#: main/info.php:80
+msgid "Company name"
+msgstr "Име на фирмата"
+
+#: main/info.php:76
+msgid "Footer Settings"
+msgstr "Настройки на футъра"
+
+#: main/info.php:69
+msgid "Motto"
+msgstr "Мото"
+
+#: main/info.php:55
+msgid "Logo"
+msgstr "Лого"
+
+#: main/info.php:50
+msgid "Header Settings"
+msgstr "Настройки на хедъра"
+
+#: includes/controls.php:1771 includes/controls.php:1782
+msgid "Need help?"
+msgstr "Нужда от помощ?"
+
+#: main/smtp.php:34 main/status.php:107 main/test.php:50 emails/emails.php:956
+#: unsubscription/index.php:101 includes/controls.php:1651
+#: includes/controls.php:1750
+msgid "Read more"
+msgstr "Прочетете повече"
+
+#: includes/controls.php:1573
+msgid "Center"
+msgstr "Център"
+
+#: includes/controls.php:1572
+msgid "Right"
+msgstr "Дясно"
+
+#: includes/controls.php:1572
+msgid "Left"
+msgstr "Ляво"
+
+#: emails/tnp-composer/edit.php:105
+msgid "Font family"
+msgstr "Семейство шрифтове"
+
+#: emails/themes/default/theme-options.php:69
+msgid "Post types"
+msgstr "Видове публикации"
+
+#: emails/themes/default/theme-options.php:63
+#: emails/blocks/posts/options.php:72
+msgid "Max posts"
+msgstr "Максимален брой публикации"
+
+#: emails/themes/default/theme-options.php:56
+#: emails/blocks/posts/options.php:85
+msgid "Tags"
+msgstr "Етикети"
+
+#: emails/themes/default/theme-options.php:28
+msgid "Posts"
+msgstr "Публикации"
+
+#: emails/themes/default/theme-options.php:8
+#: emails/themes/cta-2015/theme-options.php:6
+msgid "Primary color"
+msgstr "Основен цвят"
+
+#: emails/themes/blank/theme-options.php:6
+#: emails/themes/default/theme-options.php:22
+msgid "Disable social links"
+msgstr "Изключване на социалните връзки"
+
+#: emails/edit.php:426
+msgid "Only to subscribers linked to WP users"
+msgstr "Само за абонати, свързани с потребители на WP"
+
+#: emails/edit.php:401
+msgid "None"
+msgstr "Няма"
+
+#: emails/edit.php:399
+msgid "must not in one of"
+msgstr "не трябва да е в един от"
+
+#: users/export.php:37 emails/edit.php:396
+msgid "All"
+msgstr "Всички"
+
+#: emails/edit.php:394
+msgid "Match all of"
+msgstr "Принадлежи към всички от"
+
+#: emails/edit.php:394
+msgid "Match at least one of"
+msgstr "Принадлежи на поне едно от"
+
+#: emails/edit.php:385
+msgid "Leaving all multichoice options unselected is like to select all them"
+msgstr "Неизбирането на нито една опция е като избиране на всичките."
+
+#: plugin.php:471 emails/editorhtml.php:99 emails/tnp-composer/index-v2.php:72
+#: emails/tnp-composer/index.php:71 emails/editortinymce.php:116
+msgid "Test"
+msgstr "Тест"
+
+#: emails/edit.php:264
+msgid "This newsletter will be sent to not confirmed subscribers."
+msgstr "Този бюлетин ще бъде изпратен на непотвърдени абонати."
+
+#: emails/blocks/separator/options.php:6
+msgid "Height"
+msgstr "Височина"
+
+#: emails/blocks/separator/options.php:5
+msgid "Color"
+msgstr "Цвят"
+
+#: emails/index.php:101
+msgid "View"
+msgstr "Преглед"
+
+#: subscription/antibot.php:88 subscription/antibot.php:89
+#: subscription/antibot.php:90 subscription/antibot.php:91
+#: subscription/antibot.php:92 subscription/antibot.php:93
+msgid "minutes"
+msgstr "минути"
+
+#: subscription/antibot.php:87
+msgid "minute"
+msgstr "минута"
+
+#: subscription/antibot.php:83 subscription/antibot.php:84
+#: subscription/antibot.php:85 subscription/antibot.php:86
+msgid "seconds"
+msgstr "секунди"
+
+#: subscription/antibot.php:70 subscription/antibot.php:82
+#: includes/controls.php:470
+msgid "Disabled"
+msgstr "Изключено"
+
+#: profile/defaults.php:6
+msgid ""
+"\n"
+"    <p>If you change your email address, a confirmation email will be sent to activate it.</p>\n"
+"    <p><a href=\"{unsubscription_confirm_url}\">Cancel your subscription</a></p>"
+msgstr ""
+"\n"
+"<p> Ако промените имейл адреса си, ще Ви бъде изпратен имейл за активация. </p>\n"
+"<p> <a href=\"{unsubscription_confirm_url}\"> Премахване на абонамента </a> </p>"
+
+#: emails/tnp-composer/edit.php:134
+msgid "Text align"
+msgstr "Подравняване на текста"
+
+#: emails/tnp-composer/edit.php:127
+msgid "Font size"
+msgstr "Размер на шрифта"
+
+#: emails/blocks/preheader/options.php:7
+msgid "View online"
+msgstr "Вижте онлайн"
+
+#: users/edit.php:236
+msgid "WP user ID"
+msgstr "ID на WP потребител"
+
+#: users/edit.php:224
+msgid "Created"
+msgstr "Създадено"
+
+#: emails/themes/vimeo-like/theme-defaults.php:7
+msgid "Read More"
+msgstr "Прочетете повече"
+
+#: emails/edit.php:464
+msgid "Toggle"
+msgstr "Превключване"
+
+#: subscription/options.php:157 includes/controls.php:449
+msgid "No"
+msgstr "Не"
+
+#: main/index.php:182 main/index.php:195
+msgid "Subscriptions"
+msgstr "Абонаменти"
+
+#: subscription/defaults-profile.php:24 tnp-header.php:247
+#: main/extensions.php:162 main/welcome.php:211
+msgid "Subscribe"
+msgstr "Абонирайте се"
+
+#: includes/controls.php:870 includes/controls.php:875
+msgid "Duplicate"
+msgstr "Дублиране"
+
+#: widget/standard.php:134 widget/minimal.php:88
+msgid "Automatically subscribe to"
+msgstr "Автоматично абониране за"
+
+#: subscription/template.php:106
+msgid "Template"
+msgstr "Шаблон"
+
+#: main/extensions.php:30
+msgid "Error while activating:"
+msgstr "Грешка при активиране:"
+
+#: users/massive.php:266
+msgid "Update"
+msgstr "Обновяване"
+
+#: subscription/lists.php:134
+msgid "Type"
+msgstr "Вид"
+
+#: tnp-header.php:83
+msgid "Subscription Form Fields, Buttons, Labels"
+msgstr "Полета, бутони, етикети за форма за абонамент"
+
+#: main/status.php:217 main/test.php:135 main/welcome.php:182
+msgid "Send a test message"
+msgstr "Изпратете тестово съобщение"
+
+#: main/status.php:167
+msgid "System Status"
+msgstr "Системно състояние"
+
+#: main/main.php:266
+msgid "Custom styles"
+msgstr "Собствени стилове"
+
+#: subscription/template.php:36
+msgid "No test subscribers found."
+msgstr "Не са намерени абонати за тест."
+
+#: subscription/template.php:61
+msgid "The tag {message} is missing in your template"
+msgstr "Етикетът {message} липсва във вашия шаблон"
+
+#: includes/controls.php:418
+msgid "Done."
+msgstr "Готово."
+
+#: emails/edit.php:321 emails/edit.php:324
+msgid "Schedule"
+msgstr "Планиране"
+
+#: emails/tnp-composer/edit.php:238
+msgid "Tags (comma separated)"
+msgstr "Етикети (разделени със запетая)"
+
+#: emails/themes/default/theme-options.php:50 emails/tnp-composer/edit.php:233
+#: includes/fields.php:369
+msgid "Categories"
+msgstr "Категории"
+
+#: emails/tnp-composer/edit.php:231
+msgid "Number of posts"
+msgstr "Брой публикации"
+
+#: emails/tnp-composer/edit.php:168 emails/tnp-composer/edit.php:208
+msgid "Font Family"
+msgstr "Семейство шрифтове"
+
+#: emails/tnp-composer/index-v2.php:94
+msgid "Background color"
+msgstr "Цвят на фона"
+
+#: emails/tnp-composer/edit.php:163 emails/tnp-composer/edit.php:203
+msgid "Edit Block"
+msgstr "Редактиране на блок"
+
+#: subscription/profile.php:33 emails/tnp-composer/edit.php:153
+#: emails/blocks/preheader/options.php:6 emails/blocks/heading/options.php:9
+#: emails/blocks/hero/options.php:28
+msgid "Text"
+msgstr "Текст"
+
+#: emails/tnp-composer/edit.php:150
+msgid "Edit Text"
+msgstr "Редакция на текст"
+
+#: main/info.php:63 emails/tnp-composer/edit.php:100
+#: emails/blocks/hero/options.php:20 widget/standard.php:106
+msgid "Title"
+msgstr "Заглавие"
+
+#: emails/tnp-composer/edit.php:97
+msgid "Edit Title"
+msgstr "Редакция на заглавието"
+
+#: emails/tnp-composer/edit.php:88 emails/tnp-composer/edit.php:166
+#: emails/tnp-composer/edit.php:206
+msgid "Background Color"
+msgstr "Цвят на фона"
+
+#: emails/tnp-composer/edit.php:86 emails/tnp-composer/edit.php:102
+msgid "Text Color"
+msgstr "Цвят на текста"
+
+#: emails/tnp-composer/edit.php:79
+msgid "Edit Button"
+msgstr "Редактиране на бутона"
+
+#: emails/tnp-composer/edit.php:70 emails/tnp-composer/edit.php:84
+msgid "URL"
+msgstr "Връзка"
+
+#: emails/tnp-composer/edit.php:68 emails/tnp-composer/edit.php:82
+msgid "TITLE"
+msgstr "ЗАГЛАВИЕ"
+
+#: emails/tnp-composer/edit.php:65
+msgid "Edit Link"
+msgstr "Редактиране на връзка"
+
+#: emails/tnp-composer/index-v2.php:124 emails/tnp-composer/index.php:113
+#: emails/tnp-composer/edit.php:7 emails/edit.php:325
+msgid "Cancel"
+msgstr "Отказ"
+
+#: emails/tnp-composer/edit.php:26
+msgid "LINK"
+msgstr "ВРЪЗКА"
+
+#: emails/tnp-composer/edit.php:24
+msgid "ALT TEXT"
+msgstr "АЛТЕРНАТИВЕН ТЕКСТ"
+
+#: emails/tnp-composer/edit.php:17
+msgid "SOURCE"
+msgstr "ИЗТОЧНИК"
+
+#: users/import.php:207 users/export.php:27
+msgid "Field separator"
+msgstr "Разделител на полето"
+
+#: emails/tnp-composer/edit.php:240
+msgid "Any prior changes to single posts will be lost when editing these settings."
+msgstr "Всички промени в отделните публикации ще се загубят, ако редактирате тези настройки."
+
+#: emails/tnp-composer/edit.php:15
+msgid "Edit Image"
+msgstr "Редактиране на изображение"
+
+#: emails/theme.php:77
+msgid "Responsive Drag & Drop Composer"
+msgstr "Адаптивен редактор drag&drop"
+
+#. Author URI of the plugin
+msgid "https://www.thenewsletterplugin.com"
+msgstr "https://www.thenewsletterplugin.com"
+
+#. Author of the plugin
+msgid "Stefano Lissa & The Newsletter Team"
+msgstr "Стефано Лиса и екипът на Newsletter"
+
+#. Description of the plugin
+msgid "Newsletter is a cool plugin to create your own subscriber list, to send newsletters, to build your business. <strong>Before update give a look to <a href=\"https://www.thenewsletterplugin.com/category/release\">this page</a> to know what's changed.</strong>"
+msgstr "Newsletter е страхотно разширение за създаване на собствен списък с абонати, за изпращане на бюлетини, за изграждане на Вашия бизнес. <strong> Преди да актуализирате, погледнете <a href=\"https://www.thenewsletterplugin.com/category/release\"> тази страница </a>, за да разберете какво е променено. </strong>"
+
+#. Plugin URI of the plugin
+msgid "https://www.thenewsletterplugin.com/plugins/newsletter"
+msgstr "https://www.thenewsletterplugin.com/plugins/newsletter"
+
+#. Plugin Name of the plugin
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: users/statistics.php:29
+msgid "Subscriber statistics"
+msgstr "Статистика на абонатите"
+
+#: users/new.php:37
+msgid "New Subscriber"
+msgstr "Нов абонат"
+
+#: users/massive.php:335
+msgid "One email address per line."
+msgstr "Един имейл адрес на ред."
+
+#: users/massive.php:331
+msgid "Bounced addresses"
+msgstr "Отхвърлени адреси"
+
+#: users/massive.php:240
+msgid "Delete all bounced"
+msgstr "Изтриване на всички отхвърлени"
+
+#: users/massive.php:235 users/statistics.php:84 users/statistics.php:177
+#: users/statistics.php:210 users/statistics.php:245 users/edit.php:150
+msgid "Bounced"
+msgstr "Отхвърлени"
+
+#: users/massive.php:230
+msgid "Delete all unsubscribed"
+msgstr "Изтриване на всички отписани"
+
+#: users/massive.php:225 users/statistics.php:78 users/statistics.php:176
+#: users/statistics.php:209 users/statistics.php:244 users/edit.php:150
+msgid "Unsubscribed"
+msgstr "Отписани"
+
+#: users/massive.php:220
+msgid "We have some tips about global actions, read more."
+msgstr "Имаме няколко съвета относно общите действия, прочетете повече."
+
+#: users/massive.php:218
+msgid "Are you sure you want to mark ALL subscribers as confirmed?"
+msgstr "Сигурни ли сте, че искате да маркирате ВСИЧКИ абонати като потвърдени?"
+
+#: users/massive.php:218
+msgid "Confirm all"
+msgstr "Потвърдете всички"
+
+#: users/massive.php:217
+msgid "Are you sure you want to delete ALL not confirmed subscribers?"
+msgstr "Сигурни ли сте, че искате да изтриете ВСИЧКИ непотвърдени абонати?"
+
+#: users/massive.php:217
+msgid "Delete all not confirmed"
+msgstr "Изтриване на всички непотвърдени"
+
+#: includes/controls.php:936
+msgid "Are you sure?"
+msgstr "Сигурни ли сте?"
+
+#: users/massive.php:208
+msgid "Unconfirm all"
+msgstr "Запишете всички като непотвърдени"
+
+#: users/massive.php:199
+msgid "Are you sure you want to remove ALL subscribers?"
+msgstr "Сигурни ли сте, че искате да премахнете ВСИЧКИ абонати?"
+
+#: users/massive.php:199
+msgid "Delete all"
+msgstr "Изтриване на всички"
+
+#: users/massive.php:194
+msgid "Total collected emails"
+msgstr "Всички събрани имейли"
+
+#: users/massive.php:190
+msgid "Actions"
+msgstr "Действия"
+
+#: users/massive.php:189 users/statistics-time.php:16
+#: users/statistics-time.php:39 users/statistics.php:55
+#: users/statistics.php:100 users/statistics.php:132
+msgid "Total"
+msgstr "Общо"
+
+#: users/massive.php:159
+msgid "Please, backup before run a massive action."
+msgstr "Моля, направете резервно копие, преди да стартирате масово действие."
+
+#: users/massive.php:158
+msgid "Subscribers Maintenance"
+msgstr "Поддръжка на абонати"
+
+#: users/massive.php:38
+msgid "Subscribers deleted: "
+msgstr "Изтрити абонати:"
+
+#: users/massive.php:33
+msgid "Subscribers changed to confirmed: "
+msgstr "Абонати, променени в потвърдени:"
+
+#: users/massive.php:28
+msgid "Subscribers changed to not confirmed: "
+msgstr "Абонати, променени в непотвърдени:"
+
+#: users/massive.php:23
+msgid "Subscribers bounced deleted: "
+msgstr "Изтрити отхвърлени абонати:"
+
+#: users/massive.php:18
+msgid "Subscribers unsubscribed deleted: "
+msgstr "Изтрити отписани абонати:"
+
+#: users/massive.php:13
+msgid "Subscribers not confirmed deleted: "
+msgstr "Изтрити непотвърдени абонати:"
+
+#: tnp-header.php:59 profile/index.php:62
+msgid "Profile page"
+msgstr "Профилна страница"
+
+#: users/index.php:230
+msgid "Resend welcome"
+msgstr "Повторно изпращане на приветствие"
+
+#: users/index.php:226
+msgid "Remove"
+msgstr "Изтриване"
+
+#: users/index.php:163
+msgid "subscriber(s) found"
+msgstr "открит(и) абонат(и)"
+
+#: users/index.php:159
+msgid "Go"
+msgstr "Напред"
+
+#: users/index.php:148
+msgid "Show lists"
+msgstr "Показване на списъците"
+
+#: users/index.php:145
+msgid "Reset Filters"
+msgstr "Промяна на филтрите"
+
+#: users/index.php:143 emails/blocks/giphy/options.php:7
+msgid "Search"
+msgstr "Търсене"
+
+#: users/index.php:139
+msgid "filter by"
+msgstr "филтриране по"
+
+#: users/index.php:137
+msgid "Search text"
+msgstr "Търсене на текст"
+
+#: users/import.php:215
+msgid "CSV file"
+msgstr "CSV файл"
+
+#: users/import.php:191
+msgid "user data will be left untouched if already present."
+msgstr "потребителските данни ще останат непроменени, ако вече съществуват."
+
+#: users/import.php:190
+msgid "user data will be overwritten with new informations (like name and preferences)."
+msgstr "потребителските данни ще бъдат презаписани с нова информация (като име и предпочитания)."
+
+#: users/import.php:189
+msgid "user data will be updated, existing preferences will be left untouched and new ones will be added."
+msgstr "потребителските данни ще бъдат актуализирани, съществуващите предпочитания ще останат непроменени и ще бъдат добавени нови."
+
+#: users/import.php:179
+msgid "Override status of existing users"
+msgstr "Промяна на състоянието на съществуващите потребители"
+
+#: users/import.php:175
+msgid "Import Subscribers As"
+msgstr "Импортиране на абонати като"
+
+#: users/edit.php:91
+msgid "Editing"
+msgstr "Редактиране"
+
+#: tnp-header.php:181
+msgid "License expired"
+msgstr "Срокът на лиценза е изтекъл"
+
+#: tnp-header.php:188
+msgid "License active"
+msgstr "Лицензът е активен"
+
+#: tnp-header.php:129
+msgid "External mail server"
+msgstr "Външен имейл сървър"
+
+#: tnp-header.php:128
+msgid "SMTP"
+msgstr "SMTP"
+
+#: tnp-header.php:136
+msgid "Social, address, logo and general info"
+msgstr "Aдрес, лого, социални мрежи и обща информация"
+
+#: tnp-header.php:124
+msgid "Delivery speed, sender details, ..."
+msgstr "Скорост на изпращане, подробности за изпращача, ..."
+
+#: tnp-header.php:110
+msgid "Tracking configuration and basic data"
+msgstr "Проследяване на конфигурация и основни данни"
+
+#: tnp-header.php:107
+msgid "The classic \"write & send\" newsletters"
+msgstr "Класически бюлетини „напиши и изпрати“"
+
+#: tnp-header.php:139
+msgid "Change the look of your service emails"
+msgstr "Променете външния вид на служебните имейли"
+
+#: tnp-header.php:138
+msgid "Messages Template"
+msgstr "Шаблон за съобщения"
+
+#: tnp-header.php:92
+msgid "How to give the last goodbye (or avoid it!)"
+msgstr "Как да дадете последно довиждане (или да го избегнете!)"
+
+#: tnp-header.php:91
+msgid "Unsubscription"
+msgstr "Отписване"
+
+#: tnp-header.php:88
+msgid "Profile the subscribers for a better targeting"
+msgstr "Профилиране на абонатите за по-добро таргетиране"
+
+#: tnp-header.php:84
+msgid "When and what data to collect"
+msgstr "Кога и какви данни да се събират"
+
+#: tnp-header.php:77
+msgid "The subscription process in detail"
+msgstr "Процесът на абониране в детайли"
+
+#: subscription/options.php:132 tnp-header.php:76
+msgid "Subscription"
+msgstr "Абониране"
+
+#: tnp-header.php:74
+msgid "List Building"
+msgstr "Създаване на списък"
+
+#: tnp-header.php:68
+msgid "All about your subscribers"
+msgstr "Всичко за вашите абонати"
+
+#: tnp-header.php:66
+msgid "Massive actions: change list, clean up, ..."
+msgstr "Групови действия: промяна на списък, почистване, ..."
+
+#: tnp-header.php:65
+msgid "Maintenance"
+msgstr "Поддръжка"
+
+#: tnp-header.php:64
+msgid "Export your subscribers list"
+msgstr "Експортиране на списъка с абонати"
+
+#: users/export.php:17 users/export.php:42 tnp-header.php:63
+msgid "Export"
+msgstr "Експортиране"
+
+#: tnp-header.php:62
+msgid "Import from external sources"
+msgstr "Импортиране от външни източници"
+
+#: users/import.php:151 tnp-header.php:61
+msgid "Import"
+msgstr "Внедряване"
+
+#: tnp-header.php:58
+msgid "Add, edit, search"
+msgstr "Добавяне, редактиране, търсене"
+
+#: tnp-header.php:57
+msgid "Search And Edit"
+msgstr "Търсене и редактиране"
+
+#: subscription/lists.php:142 users/index.php:121 tnp-header.php:55
+msgid "Subscribers"
+msgstr "Абонати"
+
+#: tnp-footer.php:24
+msgid "Stay updated"
+msgstr "Останете актуализирани"
+
+#: tnp-footer.php:15
+msgid "Blog"
+msgstr "Блог"
+
+#: tnp-footer.php:14
+msgid "Forum"
+msgstr "Форум"
+
+#: tnp-footer.php:13
+msgid "Your Account"
+msgstr "Вашият профил"
+
+#: tnp-footer.php:8
+msgid "Get Premium"
+msgstr "Преминете на Premium"
+
+#: unsubscription/index.php:78
+msgid "Goodbye email"
+msgstr "Имейл за довиждане"
+
+#: unsubscription/index.php:69
+msgid "Goodbye message"
+msgstr "Съобщение за довиждане"
+
+#: subscription/template.php:87
+msgid "Messages template"
+msgstr "Шаблон за съобщения"
+
+#: subscription/profile.php:42
+msgid "Subscription Form Fields and Layout"
+msgstr "Полета за форма за абонамент и оформление"
+
+#: subscription/forms.php:24
+msgid "Custom Forms"
+msgstr "Персонализирани форми"
+
+#: statistics/view.php:29
+msgid "Statistics of"
+msgstr "Статистики"
+
+#: tnp-header.php:119
+msgid "Settings"
+msgstr "Настройки"
+
+#: main/smtp.php:54
+msgid "SMTP Settings"
+msgstr "Настройки SMTP"
+
+#: main/smtp.php:21
+msgid "Saved. Remember to test your changes right now!"
+msgstr "Запаметено. Не забравяйте сега да тествате промените!"
+
+#: main/main.php:239
+msgid "Max emails per hour"
+msgstr "Максимален брой имейли на час"
+
+#: main/main.php:194
+msgid "Reply to"
+msgstr "Отговор на"
+
+#: main/main.php:184
+msgid "Return path"
+msgstr "Обратен път"
+
+#: main/main.php:175 main/welcome.php:138
+msgid "Sender name"
+msgstr "Име на изпращача"
+
+#: main/main.php:165
+msgid "Sender email address"
+msgstr "Имейл адрес на изпращача"
+
+#: main/main.php:151
+msgid "Advanced Settings"
+msgstr "Разширени настройки"
+
+#: main/main.php:150
+msgid "Delivery Speed"
+msgstr "Скорост на изпращане"
+
+#: main/main.php:149
+msgid "Basic Settings"
+msgstr "Основни настройки"
+
+#: main/main.php:39
+msgid "Reply to email is not correct."
+msgstr "Адресът за отговор не е правилен."
+
+#: main/main.php:32
+msgid "Return path email is not correct."
+msgstr "Адресът на обратния път не е правилен."
+
+#: main/main.php:26
+msgid "The sender email address is not correct."
+msgstr "Имейл адресът на изпращача не е правилен."
+
+#: main/info.php:46 emails/themes/vimeo-like/theme-options.php:25
+msgid "Social"
+msgstr "Социални мрежи"
+
+#: subscription/options.php:131 users/massive.php:179 users/edit.php:107
+#: profile/index.php:51 main/info.php:45
+#: emails/themes/vimeo-like/theme-options.php:24
+msgid "General"
+msgstr "Основно"
+
+#: tnp-header.php:135 main/info.php:34
+msgid "Company Info"
+msgstr "Информация за фирмата"
+
+#: main/index.php:372
+msgid "Profile"
+msgstr "Профил"
+
+#: includes/module.php:1136
+msgid "BOUNCED"
+msgstr "ОТХВЪРЛЕН"
+
+#: includes/module.php:1134
+msgid "UNSUBSCRIBED"
+msgstr "ОТПИСАН"
+
+#: includes/module.php:1132
+msgid "CONFIRMED"
+msgstr "ПОТВЪРДЕН"
+
+#: includes/module.php:1130
+msgid "NOT CONFIRMED"
+msgstr "НЕПОТВЪРДЕН"
+
+#: main/index.php:351
+msgid "Last Subscribers"
+msgstr "Последни абонати"
+
+#: main/index.php:325
+msgid "Buy"
+msgstr "Купи"
+
+#: main/index.php:323
+msgid "Premium"
+msgstr "Премиум"
+
+#: main/index.php:287 main/index.php:356
+msgid "New"
+msgstr "Нов"
+
+#: subscription/profile.php:33 users/export.php:35 users/statistics.php:131
+#: main/index.php:284 main/index.php:353
+msgid "List"
+msgstr "Списък"
+
+#: main/index.php:269
+msgid "Learn how to segment your suscribers"
+msgstr "Научете как да сегментирате абонатите си"
+
+#: main/index.php:262
+msgid "All Video Tutorials"
+msgstr "Всички видеоуроци"
+
+#: main/index.php:255
+msgid "Problem sending messages? Start here!"
+msgstr "Проблем с изпращането на съобщения? Започни оттук!"
+
+#: main/index.php:242
+msgid "Read all"
+msgstr "Прочетете всичко"
+
+#: main/welcome.php:222 main/index.php:239
+msgid "Documentation"
+msgstr "Документация"
+
+#: main/index.php:108
+msgid "Overall"
+msgstr "Общо"
+
+#: main/index.php:104
+msgid "Last Newsletter"
+msgstr "Последен бюлетин"
+
+#: main/index.php:97
+msgid "These charts are only for example:<br>create and send your first newsletter to have real statistics!"
+msgstr "Тези диаграми са само примерни: <br> създайте и изпратете първия си бюлетин, за да получите реална статистика!"
+
+#: main/index.php:76
+msgid "Your powerful control panel"
+msgstr "Вашият мощен контролен панел"
+
+#: plugin.php:463 main/index.php:75
+msgid "Dashboard"
+msgstr "Табло за управление"
+
+#: tnp-header.php:123 main/main.php:137
+msgid "General Settings"
+msgstr "Общи настройки"
+
+#: emails/blocks/posts/options.php:85
+msgid "Comma separated"
+msgstr "Разделени чрез запетая"
+
+#: subscription/antibot.php:71 includes/controls.php:475
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/module.php:929
+msgid "Draft"
+msgstr "Чернова"
+
+#: includes/module.php:927
+msgid "Paused"
+msgstr "На пауза"
+
+#: includes/module.php:925
+msgid "Sent"
+msgstr "Изпратено"
+
+#: includes/controls.php:912 includes/controls.php:917
+msgid "Delete"
+msgstr "Изтрий"
+
+#: includes/controls.php:856
+msgid "Back"
+msgstr "Обратно"
+
+#: includes/controls.php:838
+msgid "Reset"
+msgstr "Рестартирай"
+
+#: profile/defaults.php:13 emails/editorhtml.php:100
+#: emails/tnp-composer/edit.php:8 emails/composer.php:92
+#: emails/editortinymce.php:117 includes/controls.php:830
+msgid "Save"
+msgstr "Запази"
+
+#: includes/controls.php:792
+msgid "Valid email address"
+msgstr "Валиден имейл адрес"
+
+#: includes/controls.php:397
+msgid "Saved."
+msgstr "Записано."
+
+#: emails/theme.php:63
+msgid "Select a theme"
+msgstr "Изберете тема"
+
+#: emails/new.php:135
+msgid "Refresh the preview"
+msgstr "Обновете визуализацията"
+
+#: emails/new.php:120
+msgid "Back to newsletter themes"
+msgstr "Обратно към темите за бюлетин"
+
+#: emails/new.php:119
+msgid "Create a newsletter"
+msgstr "Създаване на бюлетин"
+
+#: emails/index.php:109
+msgid "Expected total at the end of the delivery may differ due to subscriptions/unsubscriptions occurred meanwhile."
+msgstr "Очакваните и реалните изпращания може да са различни по брой поради междувременно направени абонаменти и отписвания."
+
+#: tnp-header.php:67 tnp-header.php:109 main/index.php:88 main/index.php:90
+#: main/index.php:310 emails/index.php:99
+msgid "Statistics"
+msgstr "Статистики"
+
+#: users/index.php:223 main/index.php:369 emails/emails.php:487
+#: emails/edit.php:313
+msgid "Edit"
+msgstr "Редактирай"
+
+#: subscription/options.php:157 includes/controls.php:454
+msgid "Yes"
+msgstr "Да"
+
+#: includes/module.php:965 includes/module.php:972 includes/module.php:974
+#: includes/module.php:1009
+msgid "of"
+msgstr "от"
+
+#: includes/module.php:921
+msgid "Sending"
+msgstr "Изпращане"
+
+#: includes/module.php:923
+msgid "Scheduled"
+msgstr "Планирано"
+
+#: users/statistics-time.php:38 emails/index.php:64
+msgid "Date"
+msgstr "Дата"
+
+#: emails/index.php:63
+msgid "Progress"
+msgstr "Прогрес"
+
+#: emails/index.php:61
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/controls.php:835
+msgid "Proceed?"
+msgstr "Напред?"
+
+#: emails/index.php:54
+msgid "Delete selected newsletters"
+msgstr "Изтриване на избраните бюлетини"
+
+#: emails/index.php:53
+msgid "New newsletter"
+msgstr "Нов бюлетин"
+
+#: users/edit.php:111 tnp-header.php:102 tnp-header.php:106 main/index.php:282
+#: emails/index.php:43
+msgid "Newsletters"
+msgstr "Бюлетини"
+
+#: emails/index.php:21
+msgid "Message duplicated."
+msgstr "Съобщението е дублирано."
+
+#: emails/edit.php:293
+msgid "Edit Newsletter"
+msgstr "Редактиране на бюлетин"
+
+#: emails/edit.php:353
+msgid "Sent on"
+msgstr "Изпратено"
+
+#: emails/edit.php:473
+msgid "Track clicks and message opening"
+msgstr "Проследяване на кликвания и отваряния на съобщението"
+
+#: subscription/profile.php:32 emails/edit.php:468
+msgid "Required"
+msgstr "Задължително"
+
+#: emails/edit.php:467
+msgid "Hide/show from public sent newsletter list."
+msgstr "Скриване/показване в публичния списък на изпратени бюлетини."
+
+#: emails/edit.php:460
+msgid "Keep private"
+msgstr "Оставете като лично"
+
+#: users/import.php:177 users/statistics.php:72 users/statistics.php:175
+#: users/statistics.php:208 users/statistics.php:243 users/edit.php:149
+#: emails/edit.php:421
+msgid "Not confirmed"
+msgstr "Непотвърдени"
+
+#: users/import.php:177 users/massive.php:203 users/statistics.php:66
+#: users/statistics.php:148 users/statistics.php:174 users/statistics.php:207
+#: users/statistics.php:242 users/edit.php:149 emails/edit.php:421
+msgid "Confirmed"
+msgstr "Потвърдени"
+
+#: subscription/lists.php:117 users/import.php:197 users/massive.php:180
+#: users/index.php:178 users/edit.php:108 users/edit.php:180 tnp-header.php:87
+#: emails/edit.php:389
+msgid "Lists"
+msgstr "Списъци"
+
+#: subscription/profile.php:107 users/statistics.php:241 users/edit.php:141
+#: emails/edit.php:413
+msgid "Gender"
+msgstr "Пол"
+
+#: users/massive.php:188 users/statistics.php:54 users/statistics.php:99
+#: users/index.php:176 users/edit.php:147 plugin.php:470 tnp-header.php:150
+#: main/status.php:182 main/status.php:230 main/status.php:780
+#: main/status.php:881 main/status.php:1001 main/status.php:1104
+#: main/status.php:1219 main/test.php:100 emails/index.php:62
+#: emails/edit.php:419
+msgid "Status"
+msgstr "Статус"
+
+#: users/edit.php:110
+msgid "Other"
+msgstr "Други"
+
+#: emails/edit.php:330
+msgid "This totally stop the delivery, ok?"
+msgstr "Това напълно спира изпращането, сигурни ли сте?"
+
+#: emails/edit.php:330
+msgid "Stop"
+msgstr "Стоп"
+
+#: emails/edit.php:329
+msgid "Continue"
+msgstr "Продължи"
+
+#: emails/edit.php:328
+msgid "Pause the delivery?"
+msgstr "Слагане на пауза на изпращането?"
+
+#: emails/edit.php:328
+msgid "Pause"
+msgstr "Пауза"
+
+#: emails/edit.php:320
+msgid "Start real delivery?"
+msgstr "Да започне ли истинско изпращане?"
+
+#: emails/emails.php:976 emails/tnp-composer/index-v2.php:117
+#: emails/tnp-composer/index.php:106
+msgid "Read more about test subscribers"
+msgstr "Прочетете повече за тестовите абонати"
+
+#: emails/emails.php:954
+msgid "There are no test subscribers to send to"
+msgstr "Няма тестови абонати, до които да изпратите"
+
+#: emails/edit.php:44
+msgid "Delivery definitively cancelled"
+msgstr "Изпращането окончателно се анулира"
+
+#: emails/edit.php:248
+msgid "A subject is required to send"
+msgstr "Тема е задължителна, за да се изпрати"
+
+#: emails/new.php:12 emails/new.php:36 emails/new.php:78
+msgid "Here the email subject"
+msgstr "Тук темата на имейла"

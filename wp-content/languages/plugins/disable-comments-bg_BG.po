@@ -1,0 +1,81 @@
+# Translation of Plugins - Disable Comments - Stable (latest release) in Bulgarian
+# This file is distributed under the same license as the Plugins - Disable Comments - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-19 07:14:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: bg\n"
+"Project-Id-Version: Plugins - Disable Comments - Stable (latest release)\n"
+
+#: disable-comments.php:419
+msgid "Settings"
+msgstr "Настройки"
+
+#: disable-comments.php:339
+msgid "The <em>Disable Comments</em> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "Разширението <em>Disable Comments</em> е включено, но не е настроено. Идете на <a href=\"%s\">страница Конфигурация</a> и изберете видовете съдържание, за които искате да спрете коментарите."
+
+#: disable-comments.php:313
+msgid ", "
+msgstr ", "
+
+#: disable-comments.php:313
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Разширението <em>Disable Comments</em> е включено и коментарите са напълно спрени в: %s. Много от настройките по-долу няма да бъдат приложени в изброените видове съдържание."
+
+#: disable-comments.php:248 disable-comments.php:347 disable-comments.php:354
+msgid "Comments are closed."
+msgstr "Коментарите са спрени."
+
+#: disable-comments.php:62
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Disable Comments изисква WordPress %s или по-нова версия."
+
+#: includes/settings-page.php:81
+msgid "Save Changes"
+msgstr "Запис на промените"
+
+#: includes/settings-page.php:76
+msgid "Disabling comments will also disable trackbacks and pingbacks. All comment-related fields will also be hidden from the edit/quick-edit screens of the affected posts. These settings cannot be overridden for individual posts."
+msgstr "Спирането на коментарите ще спре също trackbacks и pingbacks. Всички полета за настройки на коментарите също ще бъдат скрити от страниците за редакция на видовете съдържание, за които Disable comments е включено. Тези настройки не могат да бъдат променяни за единични публикации."
+
+#: includes/settings-page.php:64
+msgid "On certain post types"
+msgstr "На някои видове съдържание"
+
+#: includes/settings-page.php:61
+msgid "Disable all comment-related controls and settings in WordPress."
+msgstr "Деактивиране на всички настройки за коментарите в WordPress."
+
+#: includes/settings-page.php:56
+msgid "It seems that a caching/performance plugin is active on this site. Please manually invalidate that plugin's cache after making any changes to the settings below."
+msgstr "На сайта е включено разширение за кеширане или бързодействие. След като направите промени в настройките, трябва ръчно да изчистите кеша на това разширение."
+
+#: includes/settings-page.php:53
+msgid "<em>Disable Comments</em> is Network Activated. The settings below will affect <strong>all sites</strong> in this network."
+msgstr "<em>Disable Comments</em> е включен в мрежата от сайтове. Настройките по-долу ще бъдат приложени на <strong>всички сайтове</strong> в мрежата."
+
+#: includes/settings-page.php:45
+msgid "Options updated. Changes to the Admin Menu and Admin Bar will not appear until you leave or reload this page."
+msgstr "Настройките са обновени. Промените в административното меню няма да бъдат приложени докато не напуснете или презаредите тази страница."
+
+#: includes/settings-page.php:44
+msgid "If a caching/performance plugin is active, please invalidate its cache to ensure that changes are reflected immediately."
+msgstr "Ако на сайта е включено разширение за кеширане, трябва да изчистете кеша, за да видите промените незабавно."
+
+#: includes/tools-page.php:146 includes/settings-page.php:73
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "В списъка по-горе са само вградените видове съдържание. Ако искате да спрете коментарите за специфичните видове съдържание в цялата мрежа, трябва да въведете списък с кратките имена (slugs) на специфичните типове съдържание в полето по-долу, разделени със запетайка."
+
+#: includes/tools-page.php:135 includes/tools-page.php:149
+#: includes/tools-page.php:160 includes/settings-page.php:62
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: includes/tools-page.php:134 includes/settings-page.php:61
+msgid "Everywhere"
+msgstr "Навсякъде"
